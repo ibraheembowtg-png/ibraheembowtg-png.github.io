@@ -1,0 +1,37 @@
+{
+  "id": "/",
+  "name": "محاكي القلب الكامل وأصوات الصمامات — Full Heart Simulator",
+  "short_name": "Heart Simulator",
+  "description": "محاكي تفاعلي لتشريح القلب بأربع حجرات وأصوات صماماته، مع تسع حالات سريرية ومخطط ضغط Wiggers ومخطط صوتي متزامن — يعمل دون اتصال. An offline four-chamber heart, valvular murmur and auscultation simulator.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#050a14",
+  "theme_color": "#050a14",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["medical", "education", "health"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
